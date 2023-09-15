@@ -1,5 +1,7 @@
 {
-  "name": "devasghar/ringcentral-php",
+  "name": "ringcentral/ringcentral-php",
+
+  
   "type": "library",
   "scripts": {
     "test": "phpunit --configuration phpunit.xml",
